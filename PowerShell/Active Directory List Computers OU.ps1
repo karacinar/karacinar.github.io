@@ -1,4 +1,4 @@
-$domain = "cinar.local" # Domain adınız
+$domain = "cinar.local" # Domain adı
 $ou = "OU=Computers,DC=cinar,DC=local" # OU'nun tam LDAP path'i
 $output_file = "C:\computers_with_lastlogon.txt" # Sonuçları kaydedeceğiniz dosya
 $username = "cinar\administrator" # Domain kullanıcı adı
