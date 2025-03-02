@@ -58,6 +58,11 @@
                 <i class="fas fa-desktop icon"></i>
                 <a href="https://github.com/karacinar/karacinar.github.io/blob/main/PowerShell/Active%20Directory%20List%20Computers%20OU.ps1">Active Directory List Computers OU</a>
             </li>
-
+            <li>
+                <i class="fas fa-users icon"></i>
+                <a href="#">Active Directory List Users OU</a>
+            </li>
+        </ol>
+    </div>
 </body>
 </html>
